@@ -11,6 +11,16 @@ final-year projects for computer science github using python Includes Source Cod
 
 5	React Cryptocurrency Project	https://youtu.be/HbRmkbOoG0A?si=BRpLitnttTNbHTav
 
+6 Crime Prediction Using Machine Learning	https://youtu.be/4rAoiBh2MH0?si=-s6vKdgWrzt0xEFn
+
+7 Big Mart Sales Prediction Using Machine Learning	https://youtu.be/HgQssKEiWzc?si=g2RrYfN3o84ijtxB
+
+8 Movie Recommendation System Using Machine Learning	https://youtu.be/3_0gWNzBiGQ?si=nD-2iQMCCKx7pW1K
+
+9 Data Duplication Removal Using Machine learning	https://youtu.be/_b_7sjDpuC0?si=LHJmkiN8z0ysK-jt
+
+10 Co2 Emission Prediction Using Machine learning	https://youtu.be/G05B-uG6PcY?si=8IYFlTFZkOT0XEQk
+
 Project include:
 Synopsis
 
