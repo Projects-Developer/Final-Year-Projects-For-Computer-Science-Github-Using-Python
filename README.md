@@ -21,7 +21,7 @@ final-year projects for computer science github using python Includes Source Cod
 
 10 Co2 Emission Prediction Using Machine learning	https://youtu.be/G05B-uG6PcY?si=8IYFlTFZkOT0XEQk
 
-Project include:
+### Project include:
 Synopsis
 
 PPT
@@ -36,9 +36,9 @@ Documents
 
 Report
 
-Need Code, Documents & Explanation video ?
-How to Reach me :
-Mail : vatshayan007@gmail.com
-WhatsApp: +91 9310631437 (Helping 24*7) CHAT
-Website : https://www.finalproject.in/
-Youtube Channel: https://www.youtube.com/@computerscienceproject
+### Need Code, Documents & Explanation video ?
+### How to Reach me :
+### Mail : vatshayan007@gmail.com
+### WhatsApp: +91 9310631437 (Helping 24*7) CHAT
+### Website : https://www.finalproject.in/
+### Youtube Channel: https://www.youtube.com/@computerscienceproject
